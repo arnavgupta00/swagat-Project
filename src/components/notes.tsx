@@ -1,3 +1,5 @@
+"use client";
+
 import {sanityClient} from "@/utils/configSanity"
 import { PortableText } from "@portabletext/react"
 type Note = {
